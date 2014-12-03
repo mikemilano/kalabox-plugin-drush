@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mikemilano/kalabox-plugin-drush/issues"
   },
-  "homepage": "https://github.com/mikemilano/kalabox-plugin-drush"
+  "homepage": "https://github.com/mikemilano/kalabox-plugin-drush",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
 }
