@@ -1,0 +1,19 @@
+{
+  "name": "kalabox-plugin-drush",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mikemilano/kalabox-plugin-drush.git"
+  },
+  "author": "Mike Milano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemilano/kalabox-plugin-drush/issues"
+  },
+  "homepage": "https://github.com/mikemilano/kalabox-plugin-drush"
+}
